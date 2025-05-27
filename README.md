@@ -55,4 +55,4 @@ python main.py
 - If you specify an invalid path, the program will exit immediately.
 - You will be prompted to enter the word **"CONFIRM"** in **all uppercase** to execute the program, entering any other string will end up in the program exiting.
 - By entering "CONFIRM", the program will run and all of the background images/videos will be **PERMANENTLY DELETED**
-- The program can hypothetically be used for any subfolder containing .jpeg, .jpg, .png, .mp4 files within a parent folder
+- The program can also technically be used for any subfolder containing .jpeg, .jpg, .png, .mp4 files within a parent folder
